@@ -1,0 +1,24 @@
+FLOWCHARTS (text versions; convert to hand-drawn/diagram flowcharts if your teacher requires graphics)
+
+1. ADD STUDENT
+Start -> Input profile -> Validate -> Duplicate roll number?
+Duplicate: Display error -> End
+Not duplicate: Save record -> Display success -> End
+
+2. SEARCH STUDENT
+Start -> Input roll number -> Record exists?
+Yes: Display profile and average -> End
+No: Display not found -> End
+
+3. UPDATE RECORD
+Start -> Input roll number -> Exists?
+No: Display not found -> End
+Yes: Input changes -> Validate -> Save valid changes -> End
+
+4. DELETE RECORD
+Start -> Input roll number -> Exists?
+Yes: Delete -> Display success -> End
+No: Display not found -> End
+
+5. REPORT
+Start -> Select report -> Process records -> Display results -> End

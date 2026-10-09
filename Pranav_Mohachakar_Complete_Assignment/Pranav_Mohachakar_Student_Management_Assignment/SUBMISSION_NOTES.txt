@@ -1,0 +1,16 @@
+SUBMISSION NOTES
+Student: Pranav Mohachakar
+PRN: 2126
+Course code: UMLM1016
+
+BEFORE SUBMITTING:
+1. Run `python main.py` and test the menu.
+2. Run `python -m unittest -v` and confirm the tests pass.
+3. Capture genuine screenshots of the program and test output.
+4. Add those screenshots to documentation/ or your final report.
+5. Upload this folder to GitHub and replace the placeholder link in README.md and GITHUB_LINK.txt.
+6. Check whether your teacher requires separate files in addition to the ZIP.
+7. Complete college name, department, faculty name, date, and signatures if required.
+8. Review the report and make sure you understand the code before submission.
+
+The application currently keeps data in memory only; records do not persist after closing the program.
